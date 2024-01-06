@@ -1,6 +1,7 @@
 # Hr_analytics
 
-Overview
+Overview: 
+
 Welcome to the HR Analytics Dashboard repository! This Power BI dashboard aims to provide comprehensive insights into our workforce, leveraging HR data to facilitate informed decision-making and strategic planning.
 
 Key Metrics :
